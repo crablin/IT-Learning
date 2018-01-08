@@ -19,3 +19,7 @@
 
 請上傳至自己的 GitHub 請告知我位置。我會上線查看 CODE REVIEW
  
+## 作業位置
+
+大家可以互相參考每個人的作業內容，但是不要程式碼直接複製使用
+- Owen - https://github.com/omoa123/ShopSystem
