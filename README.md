@@ -3,6 +3,7 @@
 ## 基礎知識
 
 1. [C# 編碼慣例](https://docs.microsoft.com/zh-tw/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+2. [C# 一般命名慣例](https://docs.microsoft.com/zh-tw/dotnet/standard/design-guidelines/general-naming-conventions)
 
 ## 任務執行 - Hangfire
 Fire-and-forget tasks、Delayed tasks、Recurring tasks。  
