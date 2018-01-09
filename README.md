@@ -1,5 +1,9 @@
 # Resources
 
+## 基礎知識
+
+1. [C# 編碼慣例](https://docs.microsoft.com/zh-tw/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+
 ## 任務執行 - Hangfire
 Fire-and-forget tasks、Delayed tasks、Recurring tasks。  
 
