@@ -23,3 +23,4 @@
 
 大家可以互相參考每個人的作業內容，但是不要程式碼直接複製使用
 - Owen - https://github.com/omoa123/ShopSystem
+- Eric - https://github.com/shadowshen/HomeWork1
